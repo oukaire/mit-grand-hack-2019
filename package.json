@@ -1,0 +1,30 @@
+{
+  "name": "mit-grand-hack-2019",
+  "version": "1.0.0",
+  "description": "The healthkeetiers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "latest",
+    "cors": "latest",
+    "ejs": "latest",
+    "express": "latest",
+    "node": "latest",
+    "validator": "latest",
+    "request": "latest",
+    "async": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oukaire/mit-grand-hack-2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oukaire/mit-grand-hack-2019/issues"
+  },
+  "homepage": "https://github.com/oukaire/mit-grand-hack-2019#readme"
+}
